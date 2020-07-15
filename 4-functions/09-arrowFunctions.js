@@ -28,7 +28,7 @@ let animals = (kittens, puppies) => {
 }
 
 console.log(animals(3, 2));
-console.log(animals(0,0));
+console.log(animals(0,0)); 
 
 //concise vs block body
 //concise body

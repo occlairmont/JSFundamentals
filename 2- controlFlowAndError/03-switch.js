@@ -12,7 +12,7 @@ switch(friend){
         console.log('Hey Kenn do you own a wolf in your backyard?');
         break;
     case 'Alex':
-        console.log('Hey Alex, how many Magin cards do you own?');
+        console.log('Hey Alex, how many Magic cards do you own?');
         break;
     default:
         console.log(`I'm sorry, ${friend}, but do I know you?`)

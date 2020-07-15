@@ -38,7 +38,7 @@ for (f of food){
 // food = food.slice(2,5); //first number is the first elelment to slice from the array, while the second number is the stop position (not to be included)
 // console.log(food);
 
-//forEach allows us to interate with loops specifically, and we can directly both the element and their index numbers
+// forEach allows us to interate with loops specifically, and we can directly both the element and their index numbers
 
 // food.forEach((f) => console.log(f));
 
@@ -57,7 +57,7 @@ console.log(movies.length);
 //let's do the following with an array:
 //we will check if we are working an array
 //flip the values within the array (what was in index 4 is now in 0, 3 to 1, etc.)
-//using a method only, let's print the vales of the newly arranged array
+//using a method only, let's print the values of the newly arranged array
 
 let arr = new Array(1,2,3,4,5);
 
